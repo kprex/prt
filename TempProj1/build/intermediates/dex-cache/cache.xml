@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\bd\TempProj1\app\libs\iTextpdf.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db606d232283a1ff9eadb89b3a652943d37146d6">
+        <dex dex="D:\bd\TempProj1\app\build\intermediates\pre-dexed\debug\iTextpdf_c218f103ad22d42922571b6a1c1dfb98323bf065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ydlzym\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\bd\TempProj1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0e9259218da960ab2e65d5f5e0fb8daa6d2c6dd4.jar" />
+    </item>
+
+</items>

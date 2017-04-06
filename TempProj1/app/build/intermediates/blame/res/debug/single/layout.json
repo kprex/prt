@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\bd\\TempProj1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\bd\\TempProj1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\bd\\TempProj1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "D:\\bd\\TempProj1\\app\\src\\main\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "D:\\bd\\TempProj1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_view.xml",
+        "source": "D:\\bd\\TempProj1\\app\\src\\main\\res\\layout\\file_view.xml"
+    }
+]
